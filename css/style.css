@@ -3,12 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     background: bisque;
     color: brown;
 }
-
 .container {
     max-width: 1366px;
     width: 100%;
